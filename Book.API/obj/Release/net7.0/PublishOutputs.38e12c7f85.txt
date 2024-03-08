@@ -1,0 +1,16 @@
+/Users/11356672/Documents/study/redis/book.api/Book.API/out/Book.API
+/Users/11356672/Documents/study/redis/book.api/Book.API/out/appsettings.Development.json
+/Users/11356672/Documents/study/redis/book.api/Book.API/out/appsettings.json
+/Users/11356672/Documents/study/redis/book.api/Book.API/out/Book.API.dll
+/Users/11356672/Documents/study/redis/book.api/Book.API/out/Book.API.deps.json
+/Users/11356672/Documents/study/redis/book.api/Book.API/out/Book.API.runtimeconfig.json
+/Users/11356672/Documents/study/redis/book.api/Book.API/out/Book.API.pdb
+/Users/11356672/Documents/study/redis/book.api/Book.API/out/Microsoft.AspNetCore.OpenApi.dll
+/Users/11356672/Documents/study/redis/book.api/Book.API/out/Microsoft.OpenApi.dll
+/Users/11356672/Documents/study/redis/book.api/Book.API/out/NetTopologySuite.dll
+/Users/11356672/Documents/study/redis/book.api/Book.API/out/NRedisStack.dll
+/Users/11356672/Documents/study/redis/book.api/Book.API/out/Pipelines.Sockets.Unofficial.dll
+/Users/11356672/Documents/study/redis/book.api/Book.API/out/StackExchange.Redis.dll
+/Users/11356672/Documents/study/redis/book.api/Book.API/out/Swashbuckle.AspNetCore.Swagger.dll
+/Users/11356672/Documents/study/redis/book.api/Book.API/out/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/11356672/Documents/study/redis/book.api/Book.API/out/Swashbuckle.AspNetCore.SwaggerUI.dll
